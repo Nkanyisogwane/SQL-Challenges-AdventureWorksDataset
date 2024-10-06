@@ -43,8 +43,7 @@ This dashboard aims to enhance operational efficiency by providing insights into
 ## Screenshots
 Here are some screenshots of the dashboards created during the training:
 
-![Sales Dashboard](URL_of_your_sales_dashboard_image)
-![Logistics Dashboard](URL_of_your_logistics_dashboard_image)
+![Sales Dashboard] & ![Logistics Dashboard](PowerBI-Dashboards/Screenshots)
 
 ---
 
