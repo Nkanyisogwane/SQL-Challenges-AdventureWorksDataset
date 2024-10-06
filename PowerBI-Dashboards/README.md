@@ -43,7 +43,7 @@ This dashboard aims to enhance operational efficiency by providing insights into
 ## Screenshots
 Here are some screenshots of the dashboards created during the training:
 
- ![Sales dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Logistics.png)
+ ![Sales dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Sales.png)
  ![Logistics dashboard image](https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Logistics.png)
 ---
 
