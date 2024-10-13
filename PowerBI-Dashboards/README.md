@@ -49,14 +49,11 @@ In creating this dashboard, I expanded my skills in data preparation, advanced D
 Screenshots
 Here are some screenshots of the dashboards created during the training and independently:
 
-Sales Dashboard:
-https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Sales.png
+![Sales dashboard image]https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Sales.png
 
-Logistics Dashboard:
-https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Logistics.png
+![Logistics dashboard image]https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Logistics.png
 
-Pizza Sales Dashboard:
-https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Pizza%20SAles%20dashboard.png
+![Pizza Sales dashboard image]https://raw.githubusercontent.com/Nkanyisogwane/SQL-Challenges-PowerBI-Dashboards/refs/heads/main/PowerBI-Dashboards/Pizza%20SAles%20dashboard.png
 
 Conclusion
 The dashboards created during training and independently demonstrate an ability to derive meaningful insights from data, contributing to business decision-making processes. By continuing to develop Power BI skills, including working on personal projects like the Pizza Sales Dashboard, I aim to further enhance business performance through data-driven analysis.
