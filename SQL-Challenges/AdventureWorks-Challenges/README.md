@@ -78,7 +78,7 @@ o	Create non-clustered indexes to optimize queries.
 
 How to Use
 1.	Clone the repository:
-git clone https://github.com/your-username/sql-challenges.git
+git clone https://github.com/your-username/AdventureWorks-Challenges.git
 2.	Open the SQL script files in your preferred SQL client.
 3.	Make sure the USE AdventureWorks; statement is included at the beginning of each script.
 4.	Run each query block-by-block to see the results and understand the logic.
